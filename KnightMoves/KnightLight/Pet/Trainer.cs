@@ -1,4 +1,4 @@
-namespace knightmoves;
+namespace KnightMoves.KnightLight.Pet;
 
 public class Trainer{
     public string Listen(Animal[] animals) {
